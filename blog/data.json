@@ -1,0 +1,41 @@
+[ {
+  "id_comentario" : 1,
+  "nombre_usuario" : "David",
+  "imagen" : "https://www.muylinux.com/wp-content/uploads/2009/06/tux.jpg",
+  "mensaje" : "sadsada",
+  "puntos" : 0,
+  "nivel" : 0,
+  "answers" : [ {
+    "id_comentario" : 1,
+    "nombre_usuario" : "David",
+    "imagen" : "https://e0.pxfuel.com/wallpapers/463/208/desktop-wallpaper-lion-data-src-lion-lion-pc.jpg",
+    "mensaje" : "Este es un leon",
+    "puntos" : null,
+    "nivel" : 1,
+    "answers" : [ ]
+  } ]
+}, {
+  "id_comentario" : 2,
+  "nombre_usuario" : "David",
+  "imagen" : "https://www.muylinux.com/wp-content/uploads/2009/06/tux.jpg",
+  "mensaje" : "Este es un comentario nuevo",
+  "puntos" : 0,
+  "nivel" : 0,
+  "answers" : [ ]
+}, {
+  "id_comentario" : 3,
+  "nombre_usuario" : "David",
+  "imagen" : "https://www.muylinux.com/wp-content/uploads/2009/06/tux.jpg",
+  "mensaje" : "Hola mundo de nuevo",
+  "puntos" : 0,
+  "nivel" : 0,
+  "answers" : [ ]
+}, {
+  "id_comentario" : 4,
+  "nombre_usuario" : "David",
+  "imagen" : "https://www.muylinux.com/wp-content/uploads/2009/06/tux.jpg",
+  "mensaje" : "kljlñmbhjkllk.,mnmnm,n.m,,mm.m,",
+  "puntos" : 0,
+  "nivel" : 0,
+  "answers" : [ ]
+} ]
